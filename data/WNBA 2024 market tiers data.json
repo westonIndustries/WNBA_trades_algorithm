@@ -1,0 +1,31 @@
+{
+  "WNBA_Market_Data_2024": {
+    "Tier 1 (High Efficiency)": {
+      "Adjustment_Factor": 1.25,
+      "Teams": [
+        {"name": "Las Vegas Aces", "market": "Las Vegas", "valuation_2024": 140, "rev_2023": 17.8},
+        {"name": "Seattle Storm", "market": "Seattle", "valuation_2024": 135, "rev_2023": 17.6},
+        {"name": "New York Liberty", "market": "New York City", "valuation_2024": 130, "rev_2023": 18.0}
+      ]
+    },
+    "Tier 2 (Mid Market)": {
+      "Adjustment_Factor": 1.0,
+      "Teams": [
+        {"name": "Phoenix Mercury", "market": "Phoenix", "valuation_2024": 105, "rev_2023": 15.0},
+        {"name": "Chicago Sky", "market": "Chicago", "valuation_2024": 95, "rev_2023": 12.5},
+        {"name": "Indiana Fever", "market": "Indianapolis", "valuation_2024": 90, "rev_2023": 9.1},
+        {"name": "Los Angeles Sparks", "market": "Los Angeles", "valuation_2024": 85, "rev_2023": 11.2},
+        {"name": "Minnesota Lynx", "market": "Minneapolis", "valuation_2024": 85, "rev_2023": 13.0}
+      ]
+    },
+    "Tier 3 (Emerging/Small)": {
+      "Adjustment_Factor": 0.85,
+      "Teams": [
+        {"name": "Connecticut Sun", "market": "Uncasville", "valuation_2024": 80, "rev_2023": 12.9},
+        {"name": "Washington Mystics", "market": "Washington D.C.", "valuation_2024": 80, "rev_2023": 11.9},
+        {"name": "Dallas Wings", "market": "Dallas", "valuation_2024": 75, "rev_2023": 11.1},
+        {"name": "Atlanta Dream", "market": "Atlanta", "valuation_2024": 55, "rev_2023": 8.8}
+      ]
+    }
+  }
+}

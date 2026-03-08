@@ -1,0 +1,41 @@
+{
+  "brandPortability": 0.05095244516853426,
+  "components": {
+    "careerBaseline": {
+      "avgAnnualOutput": 126681.43749736565,
+      "totalYears": 1,
+      "annualBreakdown": [
+        [
+          2024,
+          126681.43749736565
+        ]
+      ]
+    },
+    "marketAdjustment": {
+      "adjustmentFactor": 1.0465496642001195,
+      "baseTierFactor": 1.0,
+      "dmaAdjustment": 0.8906805652766975,
+      "playerContributionWeight": 0.35
+    },
+    "revenueDelta": {
+      "totalDelta": 2602000.0544,
+      "careerAvgRevenue": 300000.068,
+      "newCityRevenue": 2902000.1223999998,
+      "components": {
+        "merchandise": 760000.0,
+        "tv_rating": 0.054400000000000004,
+        "ticket_premium": 1842000.0
+      }
+    },
+    "teamValueLift": {
+      "netLift": 2.959090909090909,
+      "teamGrowthRate": 3.109090909090909,
+      "leagueAvgGrowthRate": 0.15,
+      "teamValuationPrior": 55000000,
+      "teamValuationCurrent": 226000000
+    }
+  },
+  "formula": "\u03c7 = Ch \u22c5 Ma / (\u0394Rm + \u0394Vt)",
+  "interpretation": "Minimal portability - negligible impact. This player is unlikely to significantly affect team value or revenue.",
+  "warnings": []
+}

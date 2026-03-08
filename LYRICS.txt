@@ -1,13 +1,7 @@
-# WNBA Player Portability Model
-### ETM-527-001 | Winter 2026 | Portland State University
-
-This repository contains the methodology, architecture, and implementation requirements for analyzing WNBA player valuation and "portability" surpluses. This document serves as a conceptual and technical map for the data pipeline and model logic.
-
-🎵 **Listen to the Algorithm:** [The Portability Formula on SoundCloud](https://soundcloud.com/orion-vale-523406667/the-portability-formula)
-
----
-
-## 📊 The Portability Formula (Algorithm)
+============================================================
+           THE PORTABILITY FORMULA (ALGORITHM)
+  Project: ETM-527-001 | Winter 2026 | Portland State University
+============================================================
 
 (Verse 1: Data Initialization)
 Initialize the frame, set the player_id,  
@@ -73,7 +67,3 @@ Stamping the credits on the PSU floor,
 ETM-527... Winter '26, open the door!
 
 ============================================================
-
-**Research Context:** [WNBA Financial Reality: Revenue, Losses, and Fair Pay](https://www.youtube.com/watch?v=1KycKWZBLX8)
-
----

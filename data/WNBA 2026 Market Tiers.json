@@ -1,0 +1,34 @@
+{
+  "WNBA_Market_Data": {
+    "Tier 1": {
+      "Adjustment_Factor": 1.25,
+      "Teams": [
+        {"name": "Golden State Valkyries", "market": "San Francisco/Oakland", "dma_rank": 10, "valuation_est": 500},
+        {"name": "New York Liberty", "market": "New York City", "dma_rank": 1, "valuation_est": 420},
+        {"name": "Toronto Tempo", "market": "Toronto", "dma_rank": "intl_1", "valuation_est": 350},
+        {"name": "Los Angeles Sparks", "market": "Los Angeles", "dma_rank": 2, "valuation_est": 315}
+      ]
+    },
+    "Tier 2": {
+      "Adjustment_Factor": 1.0,
+      "Teams": [
+        {"name": "Indiana Fever", "market": "Indianapolis", "dma_rank": 25, "valuation_est": 335},
+        {"name": "Seattle Storm", "market": "Seattle", "dma_rank": 13, "valuation_est": 330},
+        {"name": "Las Vegas Aces", "market": "Las Vegas", "dma_rank": 40, "valuation_est": 310},
+        {"name": "Chicago Sky", "market": "Chicago", "dma_rank": 3, "valuation_est": 255},
+        {"name": "Phoenix Mercury", "market": "Phoenix", "dma_rank": 12, "valuation_est": 250},
+        {"name": "Portland Fire", "market": "Portland", "dma_rank": 23, "valuation_est": 200}
+      ]
+    },
+    "Tier 3": {
+      "Adjustment_Factor": 0.85,
+      "Teams": [
+        {"name": "Dallas Wings", "market": "Dallas-Ft. Worth", "dma_rank": 5, "valuation_est": 195},
+        {"name": "Washington Mystics", "market": "Washington D.C.", "dma_rank": 8, "valuation_est": 185},
+        {"name": "Minnesota Lynx", "market": "Minneapolis", "dma_rank": 16, "valuation_est": 175},
+        {"name": "Atlanta Dream", "market": "Atlanta", "dma_rank": 7, "valuation_est": 165},
+        {"name": "Connecticut Sun", "market": "Uncasville (Hartford)", "dma_rank": 32, "valuation_est": 160}
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+Where to scrape/find this data:
+For Media Rankings: Use the Nielsen DMA 2025-2026 Rankings. This is updated every September and provides the exact number of TV homes per market.
+
+For Valuation Data: Look at Sportico’s WNBA Valuations. They provide the "Revenue Multiples" (e.g., the Indiana Fever are often at a much higher multiple than the Atlanta Dream due to "The Clark Effect").
+
+For "New" Markets: In 2026, you will need to add Portland (#23 DMA) and Toronto (Canada’s #1 market). You should treat Toronto as a Tier 1 market due to its national reach in Canada.
